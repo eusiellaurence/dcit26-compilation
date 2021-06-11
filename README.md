@@ -10,7 +10,5 @@ Emerging Technologies
 * https://snack.expo.io/@eusiel_vidallon/vidallon_act4
 * https://snack.expo.io/@eusiel_vidallon/vidallon_act6
 
-## Members (BSCS 3‐X)
-* Mendoza, Charles Francis T.
-* Cerezo, Marc Elvin D.
-* Delgado, Jeffery M.
+## Members (BSCS 3‐2)
+* Vidallon, Eusiel Laurence F.
